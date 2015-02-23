@@ -234,7 +234,7 @@ fieldset[disabled] .btn-xl.active {
         background-image: url('../img/MobinityLogo_White.png') ;
         background-repeat: no-repeat;
         background-size: contain;
-        width:80px;
+        width:130px;
         height:30px;
         position: relative;
         float: left;
@@ -249,8 +249,8 @@ fieldset[disabled] .btn-xl.active {
         background-image: url('../img/MobinityLogo.png') ;
         background-repeat: no-repeat;
         background-size: contain;
-        width:150px;
-        height:60px;
+        width:140px;
+        height:50px;
     }
     .navbar-default {
         padding: 25px 0;
